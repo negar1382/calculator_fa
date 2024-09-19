@@ -1,0 +1,16 @@
+@media (max-width:421px){
+    .box{
+        width: 350px;
+    }
+    input{
+        width: 340px;
+    }
+    .button{
+        width: 65px;
+        height: 65px;
+    }
+    .clear__c{
+        width: 320px;
+        height: 65px;
+    }
+}
